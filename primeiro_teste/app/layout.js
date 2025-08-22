@@ -1,15 +1,11 @@
 export default function Home() {
   return (
     <>
-      <a href="https://www.google.com.br/" target="_blank">
-        Ir para o Google
-      </a>
-      <br />
-      <a href="#secao1">Ir para a seção 1</a>
-      <br />
-      <a href="https://marciobueno.com" target="_blank">
-        Ir para o meu site
-      </a>
+      
+      
+      
+      
+      
       <hr />
       <h1>Lista de plantas silvestres na Amazônia</h1>
       <p>
